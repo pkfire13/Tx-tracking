@@ -1,5 +1,3 @@
-# interview-assignment-paulkim
-
 Methodogy:
 
 The first approach I took when I saw the "watching for each block" phrase was a websocket where the web3 subscription would emit events with callbacks. https://web3js.readthedocs.io/en/v1.8.0/web3-eth-subscribe.html. I first tried using the "logs" option and filtered based on "topics" which would be the hash of the method and its input types. This would at least cover the token transfer but native coin transfers do not have logs. I decided to use the "newBlockHeader" to get the transactions in each block whenever an callback was emitted. To distinguish between different types of transfers, I would use the following method.
