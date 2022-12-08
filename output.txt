@@ -1,0 +1,3140 @@
+
+> dev
+> nodemon index.ts
+
+[33m[nodemon] 2.0.20[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: ts,json[39m
+[32m[nodemon] starting `ts-node index.ts`[39m
+subscriptionId:  0xf8095cde518dac1c63a3084089afa767
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xe811b76CEC0318DFA4AfaE6d4bF364cfac4FEf60',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 3.187114073665684,
+  previousNativeBalance: 3.191606031335202,
+  transactionCost: 0.004491957669500032,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xd10C70000bb40B1c4579b522a7597eB8db2d10A7',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.1550008e-11,
+  previousNativeBalance: 7.1531961e-11,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x3617A3983231e5F975A7C77B40BB002BcDE40173',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.39386559453079334,
+  previousNativeBalance: 0.8983417188321158,
+  transactionCost: 0.004476124301322432,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: -0.5,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xe811b76CEC0318DFA4AfaE6d4bF364cfac4FEf60',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 3.187114073665684,
+  previousNativeBalance: 3.241237567996088,
+  transactionCost: 0.05412349433038275,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xd10C70000bb40B1c4579b522a7597eB8db2d10A7',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.1550008e-11,
+  previousNativeBalance: 7.1529027e-11,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x60b86AF869f23aEb552fB7F3CaBD11B829f6Ab2F',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.217679767280498,
+  previousNativeBalance: 7.243526150757672,
+  transactionCost: 0.02584638347716611,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x60b86AF869f23aEb552fB7F3CaBD11B829f6Ab2F',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.217679767280498,
+  previousNativeBalance: 7.217679767280491,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x1a54220656FA426a20331141324260398A549314',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.218634725766397,
+  previousNativeBalance: 7.263167758006608,
+  transactionCost: 0.04453303224018552,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x1a54220656FA426a20331141324260398A549314',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.218634725766397,
+  previousNativeBalance: 7.218634725766371,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x6Ba335E5bb34BfcaC7aEF40628Eff847b7aF0851',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.217932569072535,
+  previousNativeBalance: 7.248162347745353,
+  transactionCost: 0.030229778672797792,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x6Ba335E5bb34BfcaC7aEF40628Eff847b7aF0851',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.217932569072535,
+  previousNativeBalance: 7.217932569072514,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x8d6E15cB3442Ff24F2b8538C203B829F3D879705',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.218233975937558,
+  previousNativeBalance: 7.2298063066337015,
+  transactionCost: 0.01157233069609583,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x8d6E15cB3442Ff24F2b8538C203B829F3D879705',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.218233975937558,
+  previousNativeBalance: 7.218233975937511,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xA7EFAe728D2936e78BDA97dc267687568dD593f3',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 401555.33183413977,
+  previousNativeBalance: 401628.34002413973,
+  transactionCost: 0.00819,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xC333E80eF2deC2805F239E3f1e810612D294F771',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1923.2790159396698,
+  previousNativeBalance: 1850.2790159396698,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xA7EFAe728D2936e78BDA97dc267687568dD593f3',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 401555.33183413977,
+  previousNativeBalance: 401772.23885677976,
+  transactionCost: 0.00819,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xF05e2A70346560d3228c7002194Bb7C5dC8Fe100',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 14937.89594325681,
+  previousNativeBalance: 14720.99711061681,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x6cC5F688a315f3dC28A7781717a9A798a59fDA7b',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 681.2461196073916,
+  previousNativeBalance: 681.2297396073916,
+  transactionCost: 0.01638,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xd3e36f18853c168c3844260100eaebf1594eac819df6bb0adc24bd90169d7810',
+  tokenChanges: [
+    {
+      symbol: 'AAVE',
+      tokenContractAddress: '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9',
+      preAmount: 140612.0956955402,
+      postAmount: 140649.9865955402
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x6643887784cB89cC9537dbB7Ea20b00C45AbEefB',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1661.2454833648196,
+  previousNativeBalance: 1661.2454833648196,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xd3e36f18853c168c3844260100eaebf1594eac819df6bb0adc24bd90169d7810',
+  tokenChanges: [
+    {
+      symbol: 'AAVE',
+      tokenContractAddress: '0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9',
+      preAmount: 75.7818,
+      postAmount: 37.8909
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xC68c17E6Eec0fDE3605C595C9B98De5c1a4Cc3E4',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.003713533457122784,
+  previousNativeBalance: -0.000086466542877216,
+  transactionCost: 0.0038,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x877dd48248ead38185285acc38e04711969ea58dfd96ecc5f63ba83a28aebbe7',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: -4.44673e-7,
+      postAmount: 0
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x68841a1806fF291314946EebD0cdA8b348E73d6D',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 50.0092335,
+  previousNativeBalance: 50.0092335,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x877dd48248ead38185285acc38e04711969ea58dfd96ecc5f63ba83a28aebbe7',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 0.000019644175865254,
+      postAmount: 0.000019199502865254
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x77eB9084CE8168901bcb11F14f02A7aAb36fCd0c',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.215597440230179,
+  previousNativeBalance: 7.224661423009992,
+  transactionCost: 0.00906398277980338,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x77eB9084CE8168901bcb11F14f02A7aAb36fCd0c',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.215597440230179,
+  previousNativeBalance: 7.2155974402301695,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x2052C400d534f538628c4024F31C21Be4A67e61F',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.8346163097950559,
+  previousNativeBalance: 0.8921368260298915,
+  transactionCost: 0.007520516234835584,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.025,
+  previousNativeBalance: -0.025,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x5a243879D1A43F48042c33BBC8051c69756F67D4',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.216183218823482,
+  previousNativeBalance: 7.223352094053017,
+  transactionCost: 0.00716887522949104,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x5a243879D1A43F48042c33BBC8051c69756F67D4',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.216183218823482,
+  previousNativeBalance: 7.216183218823438,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7634.041787110965,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x81D8073f25F3C8BaF9bDBF66a6D9E7b58096a06C',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1.0000570979099517,
+  previousNativeBalance: 0.00005709790995174,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7633.537787110965,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xcC1d90b98c013ddD9802218a5671E9d3763b7B9D',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 8.496,
+  previousNativeBalance: 8,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7633.02384254112,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xdccf2439e0e10f2b270085b889525f1854619c32d6c30fda35bc21f727b7485f',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 0.000014690056851198,
+      postAmount: 0.000014691045851198
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x492238ABB26Dc69693c21180eeFB2b19A3da6BC4',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1.0710562835643371,
+  previousNativeBalance: 1.0710562835643371,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xdccf2439e0e10f2b270085b889525f1854619c32d6c30fda35bc21f727b7485f',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 3.579959867e-9,
+      postAmount: 2.590959867e-9
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7633.02384254112,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xe484007be35c6ac6aa4f5cd5cfdfaf7fc19a6349ed1457eccb0b97efaf9676f6',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 0.000014691026306348,
+      postAmount: 0.000014691045851198
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x80f451514DF73b53dD706e2e902B58D82E302947',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 3.3201703733710546,
+  previousNativeBalance: 3.3201703733710546,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xe484007be35c6ac6aa4f5cd5cfdfaf7fc19a6349ed1457eccb0b97efaf9676f6',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 2.61224150996e-7,
+      postAmount: 2.61204606146e-7
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7633.794893512956,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x257F034d53b31b8a561DD520583660f2e2AE893a',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.7618291922160408,
+  previousNativeBalance: 0.008722790225085864,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7633.02384254112,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x88eccf2bc31479a854f696c815ce609040dd12ab86747cea79c9a10a267ef67a',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 0.000014690075468932,
+      postAmount: 0.000014691045851198
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xFe2A0182b7B9F126f8F900c6f36D4F82F9777E41',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.001481895728073439,
+  previousNativeBalance: 0.001481895728073439,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x88eccf2bc31479a854f696c815ce609040dd12ab86747cea79c9a10a267ef67a',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 1.940764532e-9,
+      postAmount: 9.70382266e-10
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7633.02384254112,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xe6bc2af7354f644a9ab4b94211b16319c60090f62822072d776e39fa46f3902c',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 0.000014691035021726,
+      postAmount: 0.000014691045851198
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xd88bd885251274038D022e8D3ecC901180DBaD2C',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xe6bc2af7354f644a9ab4b94211b16319c60090f62822072d776e39fa46f3902c',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 2.1658944e-11,
+      postAmount: 1.0829472e-11
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7633.046137110965,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xEB402F3B79DaFf888f7E45F1B3C449B048d9bB1A',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.00435,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7633.9067871109655,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x4BFa82bB1ae2B98903B537573d69AF7F26f81f2D',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1.144127149958769,
+  previousNativeBalance: 0.279127149958769,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7633.032814826042,
+  previousNativeBalance: 7633.02384254112,
+  transactionCost: 0.00897228492265,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xf0ffda573850e1cc31c4b09a7e39314e6e042940b5bb11aaf253f887d1da9e9b',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: 0.000015344220049144,
+      postAmount: 0.000015345347149144
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xeC921d4Fd8387B7FDd232eF2D82eF95e99eAA467',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xf0ffda573850e1cc31c4b09a7e39314e6e042940b5bb11aaf253f887d1da9e9b',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: 2.2542e-9,
+      postAmount: 1.1271e-9
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xBf2D5d8eBF05947245B3D7f38b2776A6a49710DD',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 13.63937069563121,
+  previousNativeBalance: 13.646275477312567,
+  transactionCost: 0.006904781681354892,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xBf2D5d8eBF05947245B3D7f38b2776A6a49710DD',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 13.63937069563121,
+  previousNativeBalance: 13.63937069563121,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xAc221503406190103b8CB7D9393AE66D9C9Af6a3',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.219980999327724,
+  previousNativeBalance: 7.226676107024659,
+  transactionCost: 0.006695107696929872,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xAc221503406190103b8CB7D9393AE66D9C9Af6a3',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.219980999327724,
+  previousNativeBalance: 7.219980999327719,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x6238872A0Bd9F0E19073695532a7Ed77ce93C69E',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 110.89531561055435,
+  previousNativeBalance: 110.89305120456414,
+  transactionCost: 0.0022644059902,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xbf2be957298ddae0281445d3133bf634fd5c68053312acd73142ee76a4127fa8',
+  tokenChanges: [
+    {
+      symbol: 'GST',
+      tokenContractAddress: '0x473037de59cf9484632f4A27B509CFE8d4a31404',
+      preAmount: 0.002084530658587724,
+      postAmount: 0.002084545558587724
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xC54F47cB0347D87E7fc64C9cC6e5C12579518E80',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.010214891279082743,
+  previousNativeBalance: 0.010214891279082743,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xbf2be957298ddae0281445d3133bf634fd5c68053312acd73142ee76a4127fa8',
+  tokenChanges: [
+    {
+      symbol: 'GST',
+      tokenContractAddress: '0x473037de59cf9484632f4A27B509CFE8d4a31404',
+      preAmount: 2.98e-8,
+      postAmount: 1.49e-8
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x1d14995484498933615052d065d608D8739334F4',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 4.065969658020678,
+  previousNativeBalance: 5.307697699491127,
+  transactionCost: 0.00112880147045,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x01752ea19fd116695a1AF18895fB75c5A99ee4E0',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 2.721154688900186,
+  previousNativeBalance: 1.480555448900186,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x76DD32063b2899A59F6E15dBC474a160Cc922751',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.217113840422854,
+  previousNativeBalance: 7.222901782877415,
+  transactionCost: 0.005787942454525428,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x76DD32063b2899A59F6E15dBC474a160Cc922751',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.217113840422854,
+  previousNativeBalance: 7.21711384042282,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x167A9333BF582556f35Bd4d16A7E80E191aa6476',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 5616.731552857609,
+  previousNativeBalance: 5616.727192349436,
+  transactionCost: 0.0043605081728,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x36d36dbce30af9b4e17a9f123c3e7912aec7b0fa2e33e5708a5a026898b6a682',
+  tokenChanges: [
+    {
+      symbol: 'MAP',
+      tokenContractAddress: '0x9E976F211daea0D652912AB99b0Dc21a7fD728e4',
+      preAmount: 40206973.55063275,
+      postAmount: 40238273.742728345
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xc23774F7a5C001defBF5dDedAF168508Fc9AAA77',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x36d36dbce30af9b4e17a9f123c3e7912aec7b0fa2e33e5708a5a026898b6a682',
+  tokenChanges: [
+    {
+      symbol: 'MAP',
+      tokenContractAddress: '0x9E976F211daea0D652912AB99b0Dc21a7fD728e4',
+      preAmount: 62600.38419118,
+      postAmount: 31300.19209559
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xA08Ec486e65ED8d320173B27211fad24794F2B29',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: 0.008282646706381841,
+  transactionCost: 0.00044202004392,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7A75e51C9c41d6c7826779A818992d37d31b8A3b',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.007840626662461842,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7abE0cE388281d2aCF297Cb089caef3819b13448',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 22069.233452230266,
+  previousNativeBalance: 22069.23176985812,
+  transactionCost: 0.00168237214289408,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xc0b6b40b17a99796184eba4aecfb1820c166de3dd1ba7e80bf3779fffa38ecf2',
+  tokenChanges: [
+    {
+      symbol: 'GRT',
+      tokenContractAddress: '0xc944E90C64B2c07662A292be6244BDf05Cda44a7',
+      preAmount: 14551210.374756183,
+      postAmount: 14552200.374756183
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x401E0Db0549cC0b6D273aA2359592959c82Df8a2',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xc0b6b40b17a99796184eba4aecfb1820c166de3dd1ba7e80bf3779fffa38ecf2',
+  tokenChanges: [
+    {
+      symbol: 'GRT',
+      tokenContractAddress: '0xc944E90C64B2c07662A292be6244BDf05Cda44a7',
+      preAmount: 1980,
+      postAmount: 990
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x99F03d6367f3f5240Fcf9712cdA1086E0F0D9F0a',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 8.642420756294422,
+  previousNativeBalance: 8.674589842696909,
+  transactionCost: 0.03216908638655712,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x9507c04B10486547584C37bCBd931B2a4FeE9A41',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000001026632315718,
+  previousNativeBalance: 0.000001026616385932,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x80C67432656d59144cEFf962E8fAF8926599bCF8',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 85.99345028715673,
+  previousNativeBalance: 86.01342628715673,
+  transactionCost: 0.0021,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xC55141CC9552E62c54045B44eb3B27c53732e9C3',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.018133725267099447,
+  previousNativeBalance: 0.000257725267099448,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xac8Ce0981248195D2699A6e96cc093b69E424894',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 8.61703044694018,
+  previousNativeBalance: 8.63038264080189,
+  transactionCost: 0.01335219384578016,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x9507c04B10486547584C37bCBd931B2a4FeE9A41',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000001026632315718,
+  previousNativeBalance: 0.000001026616385932,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x80C67432656d59144cEFf962E8fAF8926599bCF8',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 85.99345028715673,
+  previousNativeBalance: 86.01441628715673,
+  transactionCost: 0.0021,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x2B404f51742265e1E4CbAa2BFb8e08779bc6505B',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.01913591845735656,
+  previousNativeBalance: 0.000269918457356562,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x24afFAe9C683b7615D4130300288E348E4b5D091',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 13.637688868718996,
+  previousNativeBalance: 13.643288908558905,
+  transactionCost: 0.00560003983984575,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x24afFAe9C683b7615D4130300288E348E4b5D091',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 13.637688868718996,
+  previousNativeBalance: 13.637688868718936,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x81a68885D124E8f1b50A544Fa80DF39Eb8014060',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.0113071755,
+  previousNativeBalance: 0.0075071755,
+  transactionCost: 0.0038,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xc8fe144447e5ca8cab9c7491e129bf765925c392e60907a84830e242e72681e8',
+  tokenChanges: [
+    {
+      symbol: 'ENS',
+      tokenContractAddress: '0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72',
+      preAmount: -2910.75999907,
+      postAmount: 9.30000000001e-7
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x6cC5F688a315f3dC28A7781717a9A798a59fDA7b',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 681.2461196073916,
+  previousNativeBalance: 681.2461196073916,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xc8fe144447e5ca8cab9c7491e129bf765925c392e60907a84830e242e72681e8',
+  tokenChanges: [
+    {
+      symbol: 'ENS',
+      tokenContractAddress: '0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72',
+      preAmount: 981608.4230096157,
+      postAmount: 978697.6630096157
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xD68fe83d3834bF35c6e1AA8A9d81c56249a61881',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.21657104588015,
+  previousNativeBalance: 7.2221732744777665,
+  transactionCost: 0.005602228597554,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xD68fe83d3834bF35c6e1AA8A9d81c56249a61881',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.21657104588015,
+  previousNativeBalance: 7.216571045880088,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x354e9Fa5c6Ee7e6092158a8c1B203CcAc932D66d',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 11.514735373795958,
+  previousNativeBalance: 11.518301117601956,
+  transactionCost: 0.000565743805998,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xa90067333e7749dc8764B48Ba915b9ce15cBe935',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.003,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x77134cbC06cB00b66F4c7e623D5fdBF6777635EC',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 60028.87521389853,
+  previousNativeBalance: 60028.87337972967,
+  transactionCost: 0.00183416885208,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x3d3268147697672fd17ef990f9627f7166d570c8914a96f146957d8d7d292b60',
+  tokenChanges: [
+    {
+      symbol: 'FTX Token',
+      tokenContractAddress: '0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9',
+      preAmount: 90160.28597964348,
+      postAmount: 90379.62497964349
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xB45Cec59E139462ff25B9d9EB01276A54c28925a',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.01081563595777482,
+  previousNativeBalance: 0.01081563595777482,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x3d3268147697672fd17ef990f9627f7166d570c8914a96f146957d8d7d292b60',
+  tokenChanges: [
+    {
+      symbol: 'FTX Token',
+      tokenContractAddress: '0x50D1c9771902476076eCFc8B2A83Ad6b9355a4c9',
+      preAmount: 652.469,
+      postAmount: 433.13
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xB23c84545Af92Fd0AeE74E883A6F6682c41436fE',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.012172229749451145,
+  previousNativeBalance: 0.010151716156601145,
+  transactionCost: 0.00202051359285,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x75d97693ae5027fdf6a0b94c5a0f468a4069edb6b473d32c55a6c8eef8b93a56',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: -5e-10,
+      postAmount: 0
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xFfec0067F5a79CFf07527f63D83dD5462cCf8BA4',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 212.46954605805678,
+  previousNativeBalance: 212.46954605805678,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x75d97693ae5027fdf6a0b94c5a0f468a4069edb6b473d32c55a6c8eef8b93a56',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: 0.000006909326171761,
+      postAmount: 0.000006908826171761
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xFD0f2E0f5B906a155d3f4c6710BE0934Cf7aA2BB',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.018092877675889,
+  previousNativeBalance: 0.09206463,
+  transactionCost: 0.000427752324111,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xC65ae1113737d07ce0fF91c9A6A93AA34F354bE1',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.073544,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xd561ba5bdBFEA7A39bF073b7520a7273bc767131',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.11947953367762242,
+  previousNativeBalance: 0.1706052346973145,
+  transactionCost: 0.006225701019692096,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x000000000000Ad05Ccc4F10045630fb830B95127',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: -0.0449,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x75e89d5979E4f6Fba9F97c104c2F0AFB3F1dcB88',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 811.707894015983,
+  previousNativeBalance: 811.7059635638886,
+  transactionCost: 0.001930452094352324,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x73c63c629b9a678adfb263d49a4c2f3f7b49bcbe9de98e219305e7d9c810c122',
+  tokenChanges: [
+    {
+      symbol: 'QNT',
+      tokenContractAddress: '0x4a220E6096B25EADb88358cb44068A3248254675',
+      preAmount: 3456.202675944305,
+      postAmount: 3458.415248944305
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7115C4de4978Ae20f8E07A888A1e6e6D75E34475',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000074071022854672,
+  previousNativeBalance: 0.000074071022854672,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x73c63c629b9a678adfb263d49a4c2f3f7b49bcbe9de98e219305e7d9c810c122',
+  tokenChanges: [
+    {
+      symbol: 'QNT',
+      tokenContractAddress: '0x4a220E6096B25EADb88358cb44068A3248254675',
+      preAmount: 4.425146,
+      postAmount: 2.212573
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x75e89d5979E4f6Fba9F97c104c2F0AFB3F1dcB88',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 811.707894015983,
+  previousNativeBalance: 812.2178092313784,
+  transactionCost: 0.0012382153954,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x787D1d91133c0635BeF93d36AaF0Cd4ACa80e566',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.508859489666068,
+  previousNativeBalance: 0.000182489666068,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x1157A2076b9bB22a85CC2C162f20fAB3898F4101',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 10998.35626741703,
+  previousNativeBalance: 10998.354645835598,
+  transactionCost: 0.001621581432576,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x79ff535203a665c9c29d9ecf16f9cf918411e54df8e83814066ad9878404bc68',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: 0.000005754395172881,
+      postAmount: 0.000005754405171956
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x83e400412f2A2450Cc6e1E913E3154183864dfDa',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.276497693190657,
+  previousNativeBalance: 0.276497693190657,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x79ff535203a665c9c29d9ecf16f9cf918411e54df8e83814066ad9878404bc68',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: 2.9999247e-11,
+      postAmount: 2.0000172e-11
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x75e89d5979E4f6Fba9F97c104c2F0AFB3F1dcB88',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 811.707894015983,
+  previousNativeBalance: 811.7827926113783,
+  transactionCost: 0.0012382153954,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x305a4408e35153b9762b02a6d4a6A567c139a13a',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.07397783293459373,
+  previousNativeBalance: 0.000317452934593731,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x17635CECc330EF7E9e62b01263AA657C27e1817E',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.01859739229000034,
+  previousNativeBalance: 0.01719478458000034,
+  transactionCost: 0.00140260771,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xf7997f31ee30519a96a7f7e11895edb8ed740d784534cb31d3b381cdbaf47a56',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 4.903481679e-8,
+      postAmount: 5.003981679e-8
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x71Dd686162C993c691E5E3e3A16794cBCC6B7D3B',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.016263291,
+  previousNativeBalance: 0.016263291,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xf7997f31ee30519a96a7f7e11895edb8ed740d784534cb31d3b381cdbaf47a56',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 2.01e-9,
+      postAmount: 1.005e-9
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x052862df78e63FbC4F1e11f5330B4bD63CD88E8E',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.25721249673633667,
+  previousNativeBalance: 0.27925449458342266,
+  transactionCost: 0.006541997847086016,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x9e15b7eF0489cbefA85cA99D10b4bE69B10277f6',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 10.829,
+  previousNativeBalance: 10.8135,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xbDE65486D01FF7d39316BfD91EBbBDf911BE4C60',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: 7.80847075,
+  transactionCost: 0.000460218938592,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x603Ab01714895FABEFfD5B05D633BEbaa6E7D706',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.808010531061408,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x25eAff5B179f209Cf186B1cdCbFa463A69Df4C45',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 58235.793451475925,
+  previousNativeBalance: 58236.23475082768,
+  transactionCost: 0.001299351759363,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xbb46C9882F439AD8C72BEec4A8C97D2A4b1A0F92',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.4656892185256405,
+  previousNativeBalance: 0.025689218525640493,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xc9f5296Eb3ac266c94568D790b6e91ebA7D76a11',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 2642.3325245225387,
+  previousNativeBalance: 2642.327767505175,
+  transactionCost: 0.00475701736375,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x450ba201edf629edb517e14c2e164ba4a253beb1f877c50946dbd533b42e640a',
+  tokenChanges: [
+    {
+      symbol: 'SHIB',
+      tokenContractAddress: '0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE',
+      preAmount: 11203638695.831041,
+      postAmount: 11207638695.831041
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xEDd6C2009B5730CEc9a16113B3564E93482157Af',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x450ba201edf629edb517e14c2e164ba4a253beb1f877c50946dbd533b42e640a',
+  tokenChanges: [
+    {
+      symbol: 'SHIB',
+      tokenContractAddress: '0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE',
+      preAmount: 8000000,
+      postAmount: 4000000
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x25eAff5B179f209Cf186B1cdCbFa463A69Df4C45',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 58235.793451475925,
+  previousNativeBalance: 58236.138144017685,
+  transactionCost: 0.001299351759363,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xe0D7a9048E6Bb5c143bC4F3021B43f5C83C1C5aA',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 10.440946134,
+  previousNativeBalance: 10.097552944,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x26bce6eCb5b10138e4bf14aC0ffcc8727FEF3B2e',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.217887142542356,
+  previousNativeBalance: 7.222985718774479,
+  transactionCost: 0.005098576232075648,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x26bce6eCb5b10138e4bf14aC0ffcc8727FEF3B2e',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.217887142542356,
+  previousNativeBalance: 7.217887142542309,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xC94eBB328aC25b95DB0E0AA968371885Fa516215',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 527.0079626156972,
+  previousNativeBalance: 527.0273035731335,
+  transactionCost: 0.000399,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x4b81d0deA44B45C694476d898fD14FA1516C18Af',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.07551708784144633,
+  previousNativeBalance: 0.056575130405112625,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x25eAff5B179f209Cf186B1cdCbFa463A69Df4C45',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 58235.793451475925,
+  previousNativeBalance: 58235.797017507684,
+  transactionCost: 0.001299351759363,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x775e1c0DADA99B27C5153a25267dbe682E993F27',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.00226668,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xca865E5104Ea76Ca36430dE4D5A75a229318643E',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.03764970775608627,
+  previousNativeBalance: 0.09015497637709737,
+  transactionCost: 0.004629656165054208,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x68b3465833fb72A70ecDF485E0e4C7bD8665Fc45',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: -0.04787561245595688,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xd24400ae8BfEBb18cA49Be86258a3C749cf46853',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 35314.647490100026,
+  previousNativeBalance: 35315.1493061831,
+  transactionCost: 0.00181608307227,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7a9D3BA3f9Ee3fFA567b8376A9f9786d4C32479B',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.5,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x3018018c44338B9728d02be12d632C6691E020d1',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 79.46773262179941,
+  previousNativeBalance: 79.46585236771303,
+  transactionCost: 0.0018802540864,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x5fdb1926cdd429c523feb945c099abf08b911576094c2a8badd3bae4ce950464',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 0.000009898891496761,
+      postAmount: 0.000009899071496761
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x09e99a469881d7F56cFBe1bE3fC290ec0DAFddfA',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.0022097357921384,
+  previousNativeBalance: 0.0022097357921384,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x5fdb1926cdd429c523feb945c099abf08b911576094c2a8badd3bae4ce950464',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 3.6e-10,
+      postAmount: 1.8e-10
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xA043950848C9da2BCc5FB701D6a396608AA3070E',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.09318584015849596,
+  previousNativeBalance: 0.09218584015849596,
+  transactionCost: 0.001,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x0c56f6079912f254a48885f8bab9259ef8c260588ff2eca29039788d93ba3998',
+  tokenChanges: [
+    {
+      symbol: 'GALA',
+      tokenContractAddress: '0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA',
+      preAmount: 4.209466e-7,
+      postAmount: 5.796349e-7
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xf34f0420b588b6Cf956f66beaBaB3f75DeB10A63',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 671.2936706350285,
+  previousNativeBalance: 671.2936706350285,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x0c56f6079912f254a48885f8bab9259ef8c260588ff2eca29039788d93ba3998',
+  tokenChanges: [
+    {
+      symbol: 'GALA',
+      tokenContractAddress: '0x15D4c048F83bd7e37d49eA4C83a07267Ec4203dA',
+      preAmount: 0.0002791194133,
+      postAmount: 0.000278960725
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x56457C7Aae41c645002110A6cb5b6a504A6a6597',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.013191353120476474,
+  previousNativeBalance: 0.022109681939777786,
+  transactionCost: 0.003318328819301312,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xDef1C0ded9bec7F1a1670819833240f027b25EfF',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.20933573129959754,
+  previousNativeBalance: 0.20373573129959754,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x50a61137bd433e6C8E1d524D31e4C322272753a0',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.001617519,
+  previousNativeBalance: 0.00041632,
+  transactionCost: 0.001201199,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xddd6cca3ecd32309833d46c033df99afedecabd53d93f1c7ad07a646e20cab2f',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: -8e-9,
+      postAmount: 0
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x48c04ed5691981C42154C6167398f95e8f38a7fF',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 3.8838750862950633,
+  previousNativeBalance: 3.8838750862950633,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xddd6cca3ecd32309833d46c033df99afedecabd53d93f1c7ad07a646e20cab2f',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 2.85909221449e-7,
+      postAmount: 2.77909221449e-7
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7710DFdCF742E68B7A1C90D59EdEdCef047fC50f',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000110622752769387,
+  previousNativeBalance: -0.000580295413819157,
+  transactionCost: 0.000690918166588544,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xb22eb14dcdd6bd81d2a4fdeb7484d403af523530a98350275c5c9ccaae3ea365',
+  tokenChanges: [
+    {
+      symbol: 'STAR',
+      tokenContractAddress: '0xDaa58A1851672a6490E2bb9Fdc8868918cDd86e6',
+      preAmount: 134.56244212962963,
+      postAmount: 1084.5624421296295
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x2A76bAA2F2cFB1b17aE672C995B3C41398e86cCD',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.38021285283007916,
+  previousNativeBalance: 0.38021285283007916,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xb22eb14dcdd6bd81d2a4fdeb7484d403af523530a98350275c5c9ccaae3ea365',
+  tokenChanges: [
+    {
+      symbol: 'STAR',
+      tokenContractAddress: '0xDaa58A1851672a6490E2bb9Fdc8868918cDd86e6',
+      preAmount: 5031629.477604167,
+      postAmount: 5030679.477604167
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xeB756100De8D2421C8d70B69Dd670448b45eba67',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.001363280087753044,
+  previousNativeBalance: 0.10536121851554134,
+  transactionCost: 0.000394853358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x39397571E86eacD58D1c221062A68DbB25DAfd9b',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.1036030850696443,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x72c813fbA8639c132C64055D9f35F9E688B0A421',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.6895372996011254,
+  previousNativeBalance: 0.687656617913907,
+  transactionCost: 0.001880681687218412,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xe252125b4b8a2e2d317a2692f4ad26f1e54cc742369fc0e8158433af73023f8b',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: -5.6225e-10,
+      postAmount: 0
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x825a6A221739A1d4f07E2b8ef18DCF9526C9976d',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000099609940542,
+  previousNativeBalance: 0.000099609940542,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xe252125b4b8a2e2d317a2692f4ad26f1e54cc742369fc0e8158433af73023f8b',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: 1.1245e-9,
+      postAmount: 5.6225e-10
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xa3FdE14C737E541517d9eb94d3C972aadF9CAaB3',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 3.67249646711006,
+  previousNativeBalance: 3.66873595893726,
+  transactionCost: 0.0037605081728,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x76e4aeb9110f09f0fbdeb628f8e5e03bcaef27819c41c97b84ed617af81004f1',
+  tokenChanges: [
+    {
+      symbol: 'OCEAN',
+      tokenContractAddress: '0x967da4048cD07aB37855c090aAF366e4ce1b9F48',
+      preAmount: 1236393.6689768897,
+      postAmount: 1248509.8006768897
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xb0A6230D1C9780606dF0530CFaBa4f0AE7A31129',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.007006734894835193,
+  previousNativeBalance: 0.007006734894835193,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x76e4aeb9110f09f0fbdeb628f8e5e03bcaef27819c41c97b84ed617af81004f1',
+  tokenChanges: [
+    {
+      symbol: 'OCEAN',
+      tokenContractAddress: '0x967da4048cD07aB37855c090aAF366e4ce1b9F48',
+      preAmount: 34005.2242,
+      postAmount: 21889.0925
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x05E07f4Bf676bACFd8D211895Cb080e5711c0A24',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 8.004458704932143,
+  previousNativeBalance: 11.179983906775194,
+  transactionCost: 0.005525201843049856,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x881D40237659C251811CEC9c364ef91dC08D300C',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: -3.17,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+balanceChangeEvent {
+  currencyString: 'ETH',
+  accountAddress: '0xE2da2e8CCD28A1e08DD7193141Fd80F5aeD7dEaD',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1.2623885299976063,
+  previousNativeBalance: 1.2574668187976064,
+  transactionCost: 0.0049217112,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xb78abd166427505b187b1f6c1043b2d590ef2727f87f91d7d92d9556eaec4955',
+  tokenChanges: [
+    {
+      symbol: 'WETH',
+      tokenContractAddress: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
+      preAmount: 80011.54008349145,
+      postAmount: 80012.17126100304
+    },
+    {
+      symbol: 'WETH',
+      tokenContractAddress: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
+      preAmount: 0.6311775115976064,
+      postAmount: 0
+    },
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: -8.223996e-10,
+      postAmount: 0
+    },
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: 0.000047211288617947,
+      postAmount: 0.000047210466218347
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xf89d7b9c864f589bbF53a82105107622B35EaA40',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 18384.108900273575,
+  previousNativeBalance: 18384.210081702255,
+  transactionCost: 0.00169222867776,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x1Eaa72B5163505AF3DF57FF0b35A1ecf8c55a3D6',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.0994892,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x10853C079c20635Fcf905fb4E9b197C271958206',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.10284903100919825,
+  previousNativeBalance: 0.10153285314871824,
+  transactionCost: 0.00131617786048,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x00aea6c653c581bd867a3aa937edea9a162f36091b8b16dabd71e1f99ae89c16',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: -1.65431082e-10,
+      postAmount: 4.568918e-12
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x45e18a0E02E01BaF53D6B51fEdED0Dbd87b95164',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x00aea6c653c581bd867a3aa937edea9a162f36091b8b16dabd71e1f99ae89c16',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 3.4e-10,
+      postAmount: 1.7e-10
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xC9d7b200Fefe843736367B8bfB3dd05a1cD94eFd',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000476335149889578,
+  previousNativeBalance: 0.00394090954713415,
+  transactionCost: 0.000394853358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7389CD701302CDd3B3Ed31969331E48e14ACc2a7',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.23023441599386438,
+  previousNativeBalance: 0.2271646949547638,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x4594467601ce92B0d94fc5112722131A535Ef0c7',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000647275016759667,
+  previousNativeBalance: -0.000250588233075969,
+  transactionCost: 0.000897863249835636,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xb14fedd024799d54b7bab59891364fe21c51fa0aa6a1f8b7830671f2519510d5',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: -0.000005980008,
+      postAmount: 0
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xA9D1e08C7793af67e9d92fe308d5697FB81d3E43',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 4081.0056538123604,
+  previousNativeBalance: 4081.0056538123604,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xb14fedd024799d54b7bab59891364fe21c51fa0aa6a1f8b7830671f2519510d5',
+  tokenChanges: [
+    {
+      symbol: 'USDC',
+      tokenContractAddress: '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48',
+      preAmount: 0.000282131027846676,
+      postAmount: 0.000276151019846676
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x93F635372008B7c5d770AAa6Ff313454c8dc498c',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.218557059201029,
+  previousNativeBalance: 7.223348628482809,
+  transactionCost: 0.00479156928172676,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x93F635372008B7c5d770AAa6Ff313454c8dc498c',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.218557059201029,
+  previousNativeBalance: 7.218557059200975,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xa483254773CFe94d502557099945Caf90725473f',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.218545713203534,
+  previousNativeBalance: 7.223496600194673,
+  transactionCost: 0.004950886991075648,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xa483254773CFe94d502557099945Caf90725473f',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.218545713203534,
+  previousNativeBalance: 7.218545713203471,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xDFd5293D8e347dFe59E90eFd55b2956a1343963d',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 9963.293802705024,
+  previousNativeBalance: 9963.289992103042,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xa20fc321cf0907e0c18413923612e47141594adfc96e5501014129058db95f60',
+  tokenChanges: [
+    {
+      symbol: 'BUSD',
+      tokenContractAddress: '0x4Fabb145d64652a948d72533023f6E7A623C7C53',
+      preAmount: 99190299.37248075,
+      postAmount: 99390296.37248075
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x91678ddB4b0abF6629EaC9b6EB6708E953a324dB',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.028243444947466494,
+  previousNativeBalance: 0.028243444947466494,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xa20fc321cf0907e0c18413923612e47141594adfc96e5501014129058db95f60',
+  tokenChanges: [
+    {
+      symbol: 'BUSD',
+      tokenContractAddress: '0x4Fabb145d64652a948d72533023f6E7A623C7C53',
+      preAmount: 399994,
+      postAmount: 199997
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x56Eddb7aa87536c09CCc2793473599fD21A8b17F',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 12930.810302780877,
+  previousNativeBalance: 12930.847067632862,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x8Fe9b4C44e499AE2010752d9fc714F1450B92912',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.03295425,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x8f8c8bE3D77dc0498367c3Bfe784647b95613510',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.06201657068408189,
+  previousNativeBalance: 0.060873500934081885,
+  transactionCost: 0.00114306975,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x1316b6d0a995afe3b967d4100e36d75c86ea87e1401030c6ade911561de19d5f',
+  tokenChanges: [
+    {
+      symbol: 'HEX',
+      tokenContractAddress: '0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39',
+      preAmount: -0.000009213057777847,
+      postAmount: 0
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7b9D42E21156BddCe52429351a77feCa2eB0066C',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.007166757575924374,
+  previousNativeBalance: 0.007166757575924374,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x1316b6d0a995afe3b967d4100e36d75c86ea87e1401030c6ade911561de19d5f',
+  tokenChanges: [
+    {
+      symbol: 'HEX',
+      tokenContractAddress: '0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39',
+      preAmount: 0.000018426115555694,
+      postAmount: 0.000009213057777847
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x8e2400A8822Fe2Da5a8C52B7F7B412ACb49813c8',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.215819975203492,
+  previousNativeBalance: 7.221296981863431,
+  transactionCost: 0.00547700665992979,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x8e2400A8822Fe2Da5a8C52B7F7B412ACb49813c8',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.215819975203492,
+  previousNativeBalance: 7.215819975203482,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x247f935C39800047Bb8D44E3cF17d579fb742576',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000542603981836319,
+  previousNativeBalance: -0.000305678466050562,
+  transactionCost: 0.000848282447886881,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x50721ec3b12d3cc10aff61ed34085ade0d8e5ed9f4a1dbdfd88522f638b85d16',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: -1.874210647e-9,
+      postAmount: 0
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xA9D1e08C7793af67e9d92fe308d5697FB81d3E43',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 4081.0056538123604,
+  previousNativeBalance: 4081.0056538123604,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x50721ec3b12d3cc10aff61ed34085ade0d8e5ed9f4a1dbdfd88522f638b85d16',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 0.000014241401262731,
+      postAmount: 0.000014239527052084
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x3fbAEa01B228368E67ca40d8cb195018Fd095318',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7.217154489895573,
+  previousNativeBalance: 7.221838988624937,
+  transactionCost: 0.00468449872931502,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xa57Bd00134B2850B2a1c55860c9e9ea100fDd6CF',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 62.47781797205471,
+  previousNativeBalance: 62.47781797205466,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x9696f59E4d72E237BE84fFD425DCaD154Bf96976',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7696.479145277963,
+  previousNativeBalance: 7696.529879889947,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7DdD84284864fC5471ca24faE753FD239B3a72e0',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.05904593836077082,
+  previousNativeBalance: 0.01212192836077082,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x4D769F92E56BcB5E8fd26033a6c5bBcf78E5f3a0',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000127747923072,
+  previousNativeBalance: 0.08634985370326706,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x615982ffbCf5202aB2093bC6f30a5AB1B41C71AD',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.21923907035651627,
+  previousNativeBalance: 0.13340131793446522,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x21a31Ee1afC51d94C2eFcCAa2092aD1028285549',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 9048.375678424985,
+  previousNativeBalance: 9048.371867823002,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x667bf5f2294a0c394c77ad726417d03a958eed1f4193c0e09b2641cc0166b80f',
+  tokenChanges: [
+    {
+      symbol: 'YFII',
+      tokenContractAddress: '0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83',
+      preAmount: 867.86045,
+      postAmount: 868.021475
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x48c04ed5691981C42154C6167398f95e8f38a7fF',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 3.8838750862950633,
+  previousNativeBalance: 3.8838750862950633,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x667bf5f2294a0c394c77ad726417d03a958eed1f4193c0e09b2641cc0166b80f',
+  tokenChanges: [
+    {
+      symbol: 'YFII',
+      tokenContractAddress: '0xa1d0E215a23d7030842FC67cE582a6aFa3CCaB83',
+      preAmount: 0.70428472,
+      postAmount: 0.54325972
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xd3f148d1D09b003A66Eb5307dbE2F676a820260B',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.005207231346865931,
+  previousNativeBalance: 0.007898035077886075,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x3fbb72111ae416aCFeDEB137af40de0CeC06058b',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.002472691940995676,
+  previousNativeBalance: 0.000166241568119532,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xc00c892d97e318bca7592F5dCD462Df8d36bb3Fd',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.006351569727161154,
+  previousNativeBalance: 0.011691987983390169,
+  transactionCost: 0.004120945193315648,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x50002CdFe7CCb0C41F519c6Eb0653158d11cd907',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.003160336512631865,
+  previousNativeBalance: 0.001940863449718498,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x28C6c06298d514Db089934071355E5743bf21d60',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 71427.15201120071,
+  previousNativeBalance: 71427.14820059872,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xe077477cdbed08190627a8c4094409178d3f0433a3da034497d9a0a7609b47a9',
+  tokenChanges: [
+    {
+      symbol: 'MATIC',
+      tokenContractAddress: '0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0',
+      preAmount: 137247336.85540438,
+      postAmount: 137309327.13540438
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x2e3d21e2FD06853aE29c24ec981abD59234a0b9b',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1.0108315262359233,
+  previousNativeBalance: 1.0108315262359233,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xe077477cdbed08190627a8c4094409178d3f0433a3da034497d9a0a7609b47a9',
+  tokenChanges: [
+    {
+      symbol: 'MATIC',
+      tokenContractAddress: '0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0',
+      preAmount: 161970.84,
+      postAmount: 99980.56
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x633222B7cd271297FaFB72cd9C26Cf42EA65a149',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000127747923072,
+  previousNativeBalance: 0.001098034079574872,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x9733a8b332AA79340733858Ec7af74A8Dd271103',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000585932798358872,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x503828976D22510aad0201ac7EC88293211D23Da',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1719.9799882729967,
+  previousNativeBalance: 1719.992886616908,
+  transactionCost: 0.000386343911289,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x320Dc1A5693860dB119E32002ce3cEf53e1CC6C0',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.012512,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x2831D29454b766B5d1A8a8D9fcB82eaEaF79C8BD',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.033054815931536766,
+  previousNativeBalance: 0.15343916928968077,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x4B7aEACC62fb132e920e8f20230Cf551656819D0',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.122878575168845,
+  previousNativeBalance: 0.002878575168845,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x4976A4A02f38326660D17bf34b431dC6e2eb2327',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 5182.850275081295,
+  previousNativeBalance: 5182.881150773279,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x50A5d953f8C72532F86FF32295C0625cF1ECB685',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.02706509,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xddfAbCdc4D8FfC6d5beaf154f18B778f892A0740',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 6048.905448594931,
+  previousNativeBalance: 6048.918346938843,
+  transactionCost: 0.000386343911289,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x5b390F05361dc637A4509C115d88d9f7403fd17b',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.012512,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x58B20857a1771e1213aEe898276AEA18Abcb5f8e',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000127747923072,
+  previousNativeBalance: 0.106741,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x0Ba57bc9b8814D1C9eF635B7Ed7c1586a55D8F50',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.106228898718784,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x913217322c1a5Fa160a2356071F0F9f67E6FDf0E',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.15440054827169614,
+  previousNativeBalance: 0.15928490162984013,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x8F35d52728ADF987b26C066bD0648Da13268923b',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.0045,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x21a31Ee1afC51d94C2eFcCAa2092aD1028285549',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 9048.375678424985,
+  previousNativeBalance: 9048.371867823002,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x0a11afaeab36ccc1700a13ee36bd51d84e0171793f87c22f8fea6ccb0b8f2f98',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 0.000051273451937641,
+      postAmount: 0.000051278054737641
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xc08768Dd7C8d3cee52D0E0C8553bF007dEa93ecB',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x0a11afaeab36ccc1700a13ee36bd51d84e0171793f87c22f8fea6ccb0b8f2f98',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 9.2056e-9,
+      postAmount: 4.6028e-9
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x503828976D22510aad0201ac7EC88293211D23Da',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1719.9799882729967,
+  previousNativeBalance: 1719.992886616908,
+  transactionCost: 0.000386343911289,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x8918410BCc76c22D29218Ef71D7099abF10900c6',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.012512,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x2c0FB8e312a7c24D833Fa74B24d3aD5c5E02f1C8',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.009942640733492,
+  previousNativeBalance: 0.120326994091636,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x0753AD272dF6a7D5842d4446bBA57db64a45ff46',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.32246953783700144,
+  previousNativeBalance: 0.21246953783700143,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xeB2629a2734e272Bcc07BDA959863f316F4bD4Cf',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 2452.078759097624,
+  previousNativeBalance: 2452.091657441535,
+  transactionCost: 0.000386343911289,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x0e415D15997968eb84835C3ca348458cf5A5616a',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.012512,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xddfAbCdc4D8FfC6d5beaf154f18B778f892A0740',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 6048.905448594931,
+  previousNativeBalance: 6048.918346938843,
+  transactionCost: 0.000386343911289,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x428Ddb33482b7D62e37D10FEF85699970B59485B',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.012512,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xEC540ffc5f4270cF5B064c34a3A1f07B6eb2A0D1',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.12536502883082082,
+  previousNativeBalance: 0.12362971002388237,
+  transactionCost: 0.001735318806938432,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x38f5dbf62b210ee179f43a6b8f1fc452f3b6a3ee3eddc1e69a021b5df0f4e7eb',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: -1.95e-10,
+      postAmount: 5.5e-11
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x5828D1F921A0670Df78bf26641e29F5c176C9349',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000708196650131439,
+  previousNativeBalance: 0.000708196650131439,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0x38f5dbf62b210ee179f43a6b8f1fc452f3b6a3ee3eddc1e69a021b5df0f4e7eb',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 5e-10,
+      postAmount: 2.5e-10
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x233503D2d1ddFdb9Ed478e680f5D50020ec3e0Bc',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000127747923072,
+  previousNativeBalance: 0.002983586653361034,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x8b22DeFbaCC02899f5E7b2667271CBb0d4F4ED68',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.002565070238446982,
+  previousNativeBalance: 0.000093584866301948,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x551878B0F00c381367E64c068ed42d0C65D11973',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 31.07806907078559,
+  previousNativeBalance: 33.06383630514473,
+  transactionCost: 0.000767234359143,
+  blockHash: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  sequenceNumber: 15929787,
+  changeSignature: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xc477A5DB011b9772aDe00669Be2b74e02C7804ec',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 2.302520292196863,
+  previousNativeBalance: 0.317520292196863,
+  transactionCost: 0,
+  blockHash: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  sequenceNumber: 15929787,
+  changeSignature: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x56Eddb7aa87536c09CCc2793473599fD21A8b17F',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 12930.810302780877,
+  previousNativeBalance: 12930.806492178894,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xaad0f05e206170fefbb0fbc3b3674ccb4190270b795f1cac5d997af1dd137239',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 0.000046555099224531,
+      postAmount: 0.000046555939194531
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x0CAC106c486fb8441c9c3D3A21Fdc483CdAC9B51',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.001415622284682339,
+  previousNativeBalance: 0.001415622284682339,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0xaad0f05e206170fefbb0fbc3b3674ccb4190270b795f1cac5d997af1dd137239',
+  tokenChanges: [
+    {
+      symbol: 'USDT',
+      tokenContractAddress: '0xdAC17F958D2ee523a2206206994597C13D831ec7',
+      preAmount: 6.30902e-9,
+      postAmount: 5.46905e-9
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xdA96217A8F3b07e7d81A327F3E4e418f8bC99582',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.000127747923072,
+  previousNativeBalance: 2.1665415306126063,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xe4E41f2274e8F04E2DCB2bE424781E679Eec8648',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 3.3880591054835603,
+  previousNativeBalance: 1.2220296761521698,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x28C6c06298d514Db089934071355E5743bf21d60',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 71427.15201120071,
+  previousNativeBalance: 71427.8232952627,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x2C0f21419a894FaD742765766eDe6c4c6dFDD7aF',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.6993247824116976,
+  previousNativeBalance: 0.03185132241169764,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x7C0775BaD4A0C440cDAc2828eb35cA7afFF3B13A',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.4885250686758509,
+  previousNativeBalance: 0.8411435399870999,
+  transactionCost: 0.002618471311249024,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x00000000006c3852cbEf3e08E8dF289169EdE581',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1e-18,
+  previousNativeBalance: -0.35,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x022DE6dD4705D39c7Db92b11c017D9BE7A3ac4f9',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.07284528800003212,
+  previousNativeBalance: 0.07104528800009212,
+  transactionCost: 0.00179999999994,
+  blockHash: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  sequenceNumber: 15929787,
+  changeSignature: '0x422910e625f49999ba2e5da47d7e17d0178b383f414778ebea5ecbab93131bb4',
+  tokenChanges: [
+    {
+      symbol: 'BPTC',
+      tokenContractAddress: '0x05237E2bd2dfAb39a135d254cABAE94b183C8baD',
+      preAmount: -0.00000296,
+      postAmount: 0
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xAB9E8225B7fc3178F884e2A990989dc855B6aA4f',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.049609836,
+  previousNativeBalance: 0.049609836,
+  transactionCost: 0,
+  blockHash: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  sequenceNumber: 15929787,
+  changeSignature: '0x422910e625f49999ba2e5da47d7e17d0178b383f414778ebea5ecbab93131bb4',
+  tokenChanges: [
+    {
+      symbol: 'BPTC',
+      tokenContractAddress: '0x05237E2bd2dfAb39a135d254cABAE94b183C8baD',
+      preAmount: 0.0000075458,
+      postAmount: 0.0000045858
+    }
+  ]
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xDFd5293D8e347dFe59E90eFd55b2956a1343963d',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 9963.293802705024,
+  previousNativeBalance: 9963.348741307009,
+  transactionCost: 0.003810601983688952,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x76d3d7D3F4869FA7Ab3D5DC4456fD254Bb2917d7',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.07307274543240164,
+  previousNativeBalance: 0.021944745432401633,
+  transactionCost: 0,
+  blockHash: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  sequenceNumber: 15929786,
+  changeSignature: '0x121bc57190afdd494443bcb4c13563f0ad4ca50e9fa054956b4ad8c5a7408018',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x46340b20830761efd32832A74d7169B29FEB9758',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 7631.036293974504,
+  previousNativeBalance: 7633.040974833482,
+  transactionCost: 0.00868085897875,
+  blockHash: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  sequenceNumber: 15929787,
+  changeSignature: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0xAd7D78C19fb9C1997998b32893B992394E849d62',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 1.996,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  sequenceNumber: 15929787,
+  changeSignature: '0xd4aa30458170a27f7035c4047009c2d70f05ade8fad2135d513c76d3b069e08b',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x9607a206137E032D72bC1D9E1889F2EF7b77c6a6',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 0.9905300254596756,
+  previousNativeBalance: 2.9909143788178194,
+  transactionCost: 0.000384353358144,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+BalanceChangeEvent emitted {
+  currencyString: 'ETH',
+  accountAddress: '0x2c170f615558e4EFe52D921Db62CE0a8Fd810155',
+  accountAddressBlockchain: 2,
+  currentNativeBalance: 2,
+  previousNativeBalance: 0,
+  transactionCost: 0,
+  blockHash: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  sequenceNumber: 15929785,
+  changeSignature: '0xda0b22afd7d79efc14fcc00a9f437740f78329c164f722e2137a764d91e28b85',
+  tokenChanges: []
+}
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
